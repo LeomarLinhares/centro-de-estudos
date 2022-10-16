@@ -6,9 +6,11 @@
 
 Você foi contratade por um grupo de pessoas que desconfia que uma família completamente normal esteja escondendo algo. Felizmente o seu trabalho não tem a ver com investigar os mesmos, mas as pessoas que te contrataram precisam de uma plataforma para centralizar as informações que eles conseguirem coletar.
 
-
+## O que você deve fazer?
 <details>
-    <summary>O que você deve fazer</summary>
+<summary><strong>👨‍ Obrigatório</strong></summary>
+
+### Requisitos
 
 ![Wireframe Básico](/docs/projetos/images/wireframe-basico.png)
 
@@ -28,16 +30,17 @@ Para cumprir os requisitos é necessário conhecer ou pesquisar sobre:
 Você pode usar qualquer framework ou biblioteca que desejar, mas é importante que você entenda o que está fazendo.
 </details>
 
-
 <details>
-    <summary>Requisito Bônus</summary>
+<summary><strong>🚀 Bônus</strong></summary>
+
+### Requisitos
 
 ![Wireframe Bônus](/docs/projetos/images/wireframe-bonus.png)
 
-Acima está um wireframe de uma aba a mais que a aplicação pode ter: a aba de "Investigação". Nessa aba, você deve criar um formulário que permita que pessoas possam enviar informações sobre a família Forger.
+Acima está um wireframe de uma aba a mais que a aplicação pode ter: a aba de "Pistas". Nessa aba, você deve criar um formulário que permita que pessoas possam enviar informações sobre a família Forger.
 
 - Deve haver uma tela a mais com as informações reunidas.
-- Um modal deve ser exibido ao clicar no botão "+" na tela de investigação.
+- Um modal deve ser exibido ao clicar no botão "+" na tela de pistas.
 - O modal deve conter um formulário com os seguintes campos:
     - Nome do usuário
     - Informação sobre os Forger
@@ -50,9 +53,7 @@ Para cumprir os requisitos é necessário conhecer ou pesquisar sobre:
 - JavaScript e eventos do DOM
 - Manipulação de elementos do DOM
 - Formulários
-- LocalStorage
+- JSON e LocalStorage
 
 Você pode usar qualquer framework ou biblioteca que desejar, mas é importante que você entenda o que está fazendo.
 </details>
-
-Caso não conheça os Forger e queira os conhecer, você pode assistir o anime Spy x Family.
