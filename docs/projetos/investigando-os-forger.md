@@ -8,7 +8,7 @@ Você foi contratade por um grupo de pessoas que desconfia que uma família comp
 
 ## O que você deve fazer?
 <details>
-<summary><strong>👨‍ Obrigatório</strong></summary>
+<summary><strong>⚠️ Obrigatório</strong></summary>
 
 ### Requisitos
 
