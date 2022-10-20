@@ -1,7 +1,7 @@
 # Links úteis
 
 ## Fundamentos
- - [Investigando os Forger](docs/projetos/investigando-os-forger.md)
+ - [Investigando os Forger](./investigando-os-forger.md)
 ## Front-end
 
 Nada ainda =(
